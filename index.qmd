@@ -2,4 +2,4 @@
 title: "Gantt"
 ---
 
-This is a sample website for a Quarto lesson.
+This is a sample website for a Quarto lesson. 
