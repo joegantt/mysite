@@ -1,5 +1,8 @@
 ---
 title: "Gantt"
+image: Gantt corn.png
+about:
+  template: trestles
 ---
 
 This is a sample website for a Quarto lesson. 
