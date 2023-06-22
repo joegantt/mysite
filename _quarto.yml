@@ -18,4 +18,5 @@ format:
 
 editor: visual
 
-template: trestles
+about: 
+    template: trestles
