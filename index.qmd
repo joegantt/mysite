@@ -5,4 +5,4 @@ about:
   template: trestles
 ---
 
-This is a sample website for a Quarto lesson. 
+I am an ear of corn. Ignore me. 
